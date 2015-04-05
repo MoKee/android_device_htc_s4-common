@@ -8,7 +8,7 @@
 /dev/rawchip.*                                  u:object_r:camera_device:s0
 /sys/camera_htccallback/htccallback             u:object_r:camera_sysfs:s0
 
-# CMHW
+# MKHW
 /sys/devices/virtual/timed_output/vibrator/voltage_level    u:object_r:vibeamp_sysfs:s0
 
 # Graphics
